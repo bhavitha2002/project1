@@ -9,5 +9,5 @@ IT
 ## Redgno:Y19IT033
 ## Email:goginenibhavithasri@gmail.com
 ## Phone no:6304550776
-## Dept:IT
-## Add:Guntur
+## Department:IT
+## Address:Guntur
