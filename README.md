@@ -1,2 +1,5 @@
 # project1
-demo project 
+demo project
+Gogineni Bhavithasri
+goginenibhavithasri@gmail.com
+IT
