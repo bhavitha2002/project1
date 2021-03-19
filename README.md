@@ -8,6 +8,6 @@ IT
 ## Name:Gogineni Bhavithasri
 ## Redgno:Y19IT033
 ## Email:goginenibhavithasri@gmail.com
-## Phone no:6304550776
+## college:RVR & JC College Of Engineering
 ## Department:IT
 ## Address:Guntur
